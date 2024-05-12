@@ -5,23 +5,8 @@
         Connect with me &darr;
     </p>
     <div class="flex flex-col gap-4 items-center justify-center">
-        <p><b class="pr-2">Email -</b>hemant.21mcan192@jecrcu.edu.in</p>
+        <p><b class="pr-2">Email -</b>anandsharma007iuj@gmail.com</p>
         <p></p>
-        <p>
-            <b class="pr-2">LinkedIn -</b>
-            <a
-                href=" https://www.linkedin.com/in/hemant-kumar-khandelwal-916869250"
-                target="_blank"
-                class="text-violet-400"
-            >
-                Hemant Kumar<sup class=""
-                    ><span class="text-xs scale-75 pl-0.5"
-                        ><i
-                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
-                        /></span
-                    ></sup
-                ></a
-            >
-        </p>
+      
     </div>
 </footer>
