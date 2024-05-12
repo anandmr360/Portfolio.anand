@@ -214,7 +214,6 @@
                                         <li>Tailwind</li>
                                         <li>CSS</li>
                                         <li>JavaScript</li>
-                                        <li>Android Studio</li>
                                         <li>Firebase</li>
                                     </ul>
                                 </div>
